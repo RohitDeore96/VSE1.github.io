@@ -1,0 +1,6 @@
+flask
+torch
+torchvision
+Pillow
+faiss-cpu
+numpy
